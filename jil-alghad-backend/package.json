@@ -16,7 +16,7 @@
     "bcrypt": "^5.1.1",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
-    "dotenv": "^10.0.0",  // Corrected the missing comma and removed the comment
+    "dotenv": "^10.0.0",  
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.12.0",
